@@ -83,17 +83,17 @@ You just load them with require().
 
 🔑 Common Core Modules
 Module	Purpose
-http: Create web servers & handle HTTP requests/responses
-fs: (File System)	Work with files (read, write, update, delete)
-path:	Handle and transform file paths
-os:	Get OS info (CPU, memory, platform, etc.)
-url:	Parse and format URLs
-querystring:	Work with query strings in URLs
-events:	Handle and emit custom events
-stream:	Work with streaming data (video, audio, files)
-buffer:	Handle binary data directly
-crypto:	Encryption, hashing, security functions
-util:	Utility functions (e.g., debugging, formatting)
-dns:	Perform DNS lookups (resolve domains to IPs)
-net:	Create TCP/IPC servers and clients
-timers:	Provides functions like setTimeout, setInterval
+1. http: Create web servers & handle HTTP requests/responses
+2. fs: (File System)	Work with files (read, write, update, delete)
+3. path:	Handle and transform file paths
+4. os:	Get OS info (CPU, memory, platform, etc.)
+5. url:	Parse and format URLs
+6. querystring:	Work with query strings in URLs
+7. events:	Handle and emit custom events
+8. stream:	Work with streaming data (video, audio, files)
+9. buffer:	Handle binary data directly
+10. crypto:	Encryption, hashing, security functions
+11. util:	Utility functions (e.g., debugging, formatting)
+12. dns:	Perform DNS lookups (resolve domains to IPs)
+13. net:	Create TCP/IPC servers and clients
+14. timers:	Provides functions like setTimeout, setInterval
